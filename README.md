@@ -1,4 +1,4 @@
-![Profile Views](https://komarev.com/ghpvc/?username=Craftzman7) ![Currently playing](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/542572136112324629) ![Coding](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/542572136112324629)
+![Profile Views](https://komarev.com/ghpvc/?username=Craftzman7) ![Currently playing](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/542572136112324629) ![Coding](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/542572136112324629) ![Listening to](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/542572136112324629)
 
 
 
