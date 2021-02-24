@@ -2,7 +2,24 @@
 
 
 
+```js
 
+export const Craft = {
+  pronouns: ["he", "him"],
+  working_on: "Tritan.gg",
+  languages: ["Node.js", "Python", "Typescript"],
+  technologies: {
+    frontend: {
+      libraries: ["react", "ejs"],
+      css: ["bootstrap"]
+    },
+    backend: {
+      js: ["Express.js", "Discord.js", "Node.js", "typescript"],
+    },
+    databases: ["MongoDB", "Redis"]
+  }
+}
+```
 
 
 
