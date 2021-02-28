@@ -4,7 +4,7 @@
 ```js
 
 export const Craft = {
-  pronouns: ["he", "him"],
+  pronouns: ["Any", "Pronouns"],
   working_on: "Tritan.gg",
   languages: ["Node.js", "Python", "Typescript"],
   technologies: {
