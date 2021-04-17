@@ -13,7 +13,7 @@ export const Craft = {
       css: ["bootstrap"]
     },
     backend: {
-      js: ["Express.js", "Discord.js", "Node.js", "typescript"],
+      js: ["Express.js", "Discord.js", "Node.js"],
     },
     databases: ["MongoDB", "Redis"]
   }
