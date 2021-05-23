@@ -15,7 +15,7 @@ export const Craft = {
     backend: {
       js: ["Express.js", "Discord.js", "Node.js"],
     },
-    databases: ["MongoDB", "Redis"]
+    databases: ["MongoDB", "Redis", "PostgreSQL"]
   }
 }
 ```
