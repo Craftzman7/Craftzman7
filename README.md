@@ -5,7 +5,7 @@
 
 export const Craft = {
   pronouns: ["He", "They"],
-  working_on: "marii.cc", "crafter.rocks", "marubot.xyz", "Hypercord",
+  working_on: "super.pw", "crafter.rocks", "marubot.xyz",
   languages: ["Node.js", "Java", "Python", "Typescript"],
   technologies: {
     frontend: {
