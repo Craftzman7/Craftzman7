@@ -6,16 +6,16 @@
 export const Craft = {
   pronouns: ["He", "They"],
   working_on: "super.pw", "marubot.xyz",
-  languages: ["Node.js", "Java", "Python", "Typescript"],
+  languages: ["Node.js", "Java", "Python", "Typescript", "PHP"],
   technologies: {
     frontend: {
-      libraries: ["react", "ejs"],
+      libraries: ["react", "ejs", "angular", "laravel"],
       css: ["bootstrap"]
     },
     backend: {
       js: ["Express.js", "Discord.js", "Node.js"],
     },
-    databases: ["MongoDB", "Redis", "PostgreSQL"]
+    databases: ["MongoDB", "Redis", "PostgreSQL", "Firebase"]
   }
 }
 ```
