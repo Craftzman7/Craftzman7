@@ -1,3 +1,5 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+World!) <br/>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Craftzman7) ![Coding](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/542572136112324629) ![Listening to](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/542572136112324629) 
 
 
