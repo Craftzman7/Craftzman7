@@ -22,12 +22,12 @@ export const Craft = {
 ```
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=Craftzman7)
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Craftzman7&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Craftzman7)
 
 
 
+![Profile Views](https://komarev.com/ghpvc/?username=Craftzman7)
 
 
